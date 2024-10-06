@@ -1,5 +1,3 @@
-# Copyright 2024 by Steven Johann Koch, 28.11.1991. All rights reserved.
-
 # Chaotic Prime Modulation and Asymptotic Cryptographic Convergence via Non-Linear Integer Pairing in High-Dimensional Prime Distributions
 
 ## Abstract
